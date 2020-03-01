@@ -20,3 +20,16 @@ Use this boilerplate if you want to:
 - Deploy highly scalable backends using serverless Firebase/Google Cloud
 - Enforce consistent and high code quality
 - Enjoy the readability and reliability of static typing with the flexability of Javascript
+
+To get started, follow the pFirebase Cloud Functions tutorial](https://firebase.google.com/docs/functions/get-started) and adopt to this boilerplate. To install all dependencies, simply run:
+
+```
+$ cd functions
+$ npm install
+```
+
+To generate TypeDocs, run:
+```
+$ npm run typedocs
+> Open localhost:3000 in Chrome
+```
