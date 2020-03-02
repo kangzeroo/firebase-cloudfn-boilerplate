@@ -1,4 +1,4 @@
-# Kangzeroo's Firebase CloudFN Typescript Boilerplate
+# Kangzeroo's Next Generation Serverless Boilerplate
 
 This is a demo of Firebase Cloud Functions written in Typescript with developer friendly tooling such as:
 
@@ -6,6 +6,7 @@ This is a demo of Firebase Cloud Functions written in Typescript with developer 
 - [TypeDoc](https://typedoc.org/) for autogenerating documentation
 - [TSLint](https://palantir.github.io/tslint/) for enforcing clean Typescript code
 - [PrettierTS](https://prettier.io/) for clean styled Typescript code
+- [GraphQL](https://graphql.org/) for simpler logic from client to server
 - Husky precommit hook that applies Prettier on git commit
 - VSCode Typescript code autocompletion
 
