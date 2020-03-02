@@ -2,6 +2,7 @@
 
 This is a demo of Firebase Cloud Functions written in Typescript with developer friendly tooling such as:
 
+- [Firebase Serverless Backend](https://firebase.google.com/docs/functions/) for easy simple implementation & scaling
 - All the [standard benefits](https://apiumhub.com/tech-blog-barcelona/top-typescript-advantages/) of using Typescript
 - [TypeDoc](https://typedoc.org/) for autogenerating documentation
 - [TSLint](https://palantir.github.io/tslint/) for enforcing clean Typescript code
